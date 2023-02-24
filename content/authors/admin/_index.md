@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Xingjian Bai 白行健
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Xingjian
+last_name: Bai
 
 # Status emoji
 status:
@@ -14,12 +14,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: enthusiast in sciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: St John's college, Oxford University
+    url: https://www.sjc.ox.ac.uk/discover/news/st-johns-students-wins-gold-in-northwestern-european-regional-programming-contest/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -33,9 +33,9 @@ interests:
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
+    # - course: PhD in Artificial Intelligence
+    #   institution: Stanford University
+    #   year: 2012
     - course: MEng in Artificial Intelligence
       institution: Massachusetts Institute of Technology
       year: 2009
@@ -80,5 +80,6 @@ email: ''
 highlight_name: true
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-{style="text-align: justify;"}
+Xingjian is a student in Oxford.
+<!-- Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+{style="text-align: justify;"} -->
