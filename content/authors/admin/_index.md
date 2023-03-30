@@ -7,8 +7,8 @@ first_name: Xingjian
 last_name: Bai
 
 # Status emoji
-status:
-  icon: ☕️
+# status:
+#   icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
@@ -22,13 +22,12 @@ organizations:
     url: https://www.sjc.ox.ac.uk/discover/news/st-johns-students-wins-gold-in-northwestern-european-regional-programming-contest/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: My research interests include distributional generative models, algorithms-with-predictions, and neural symbolic reasoning.
 # Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+# interests:
+#   - Artificial Intelligence
+#   - Computational Linguistics
+#   - Information Retrieval
 
 # Education to show in About widget
 education:
