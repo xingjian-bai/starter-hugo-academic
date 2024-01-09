@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Xingjian Bai 白行健
+title:
 
 # Full name (for SEO)
 first_name: Xingjian
