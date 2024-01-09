@@ -14,20 +14,21 @@ last_name: Bai
 superuser: true
 
 # Role/position/tagline
-role: enthusiast in sciences
+role: A believer in human ingenuity and the power of science.
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: St John's college, Oxford University
-    url: https://www.sjc.ox.ac.uk/discover/news/st-johns-students-wins-gold-in-northwestern-european-regional-programming-contest/
+# organizations:
+#   - name: University of Oxford
+#     url: https://www.sjc.ox.ac.uk/discover/news/st-johns-students-wins-gold-in-northwestern-european-regional-programming-contest/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributional generative models, algorithms-with-predictions, and neural symbolic reasoning.
+bio: My research goal is to develop theory-inspired learning systems that combine the theoretical grounding of classic algorithms and mathematics with the seemingly unreasonable power of machine learning. 
 # Interests to show in About widget
-# interests:
-#   - Artificial Intelligence
-#   - Computational Linguistics
-#   - Information Retrieval
+interests:
+  - Diffusion Model
+  - Implicit neural networks
+  - Learning augmented algorithms
+  - Neural symbolic reasoning
 
 # Education to show in About widget
 education:
@@ -79,6 +80,6 @@ email: 'xingjian.bai@sjc.ox.ac.uk'
 highlight_name: true
 ---
 
-Xingjian is a student at Oxford.
+<!-- Xingjian is a student at Oxford. -->
 <!-- Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"} -->
