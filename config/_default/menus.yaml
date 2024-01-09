@@ -25,8 +25,11 @@ main:
   - name: CV
     url: https://drive.google.com/file/d/1f5hjwASc8x91VY7sjfKsi6sRbHoDFVSl/view?usp=sharing
     weight: 70
-   - name: CV2
+  - name: CV2
     url: uploads/CV2.pdf
     weight: 80
+  - name: CV3
+    url: https://drive.google.com/file/d/1f5hjwASc8x91VY7sjfKsi6sRbHoDFVSl/view?usp=sharing
+    weight: 90
 
 sectionPagesMenu: main
