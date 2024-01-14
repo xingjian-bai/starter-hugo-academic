@@ -41,22 +41,21 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
-      text: I aim to develop learning systems inspired by theories, especially classic algorithms and probability theory. Such systems would be more reliable and effective in empirical settings.
-    
-  - block: collection
-    content:
-      title: Publications
-      text: |-
-        {{% callout note %}}
-        Quickly discover relevant content by [filtering publications](./publication/).
-        {{% /callout %}}
-      filters:
-        folders:
-          - publication
-        exclude_featured: true
-    design:
-      columns: '2'
-      view: citation
+    #   text: 
+#   - block: collection
+#     content:
+#       title: Publications
+#       text: |-
+#         {{% callout note %}}
+#         Quickly discover relevant content by [filtering publications](./publication/).
+#         {{% /callout %}}
+#       filters:
+#         folders:
+#           - publication
+#         exclude_featured: true
+#     design:
+#       columns: '2'
+#       view: citation
 
 
 
