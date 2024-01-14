@@ -14,7 +14,7 @@ last_name: Bai
 superuser: true
 
 # Role/position/tagline
-role: Xingjian Bai is a final-year undergraduate student at Oxford. He has been advised by Prof. [Jan Obloj](https://www.maths.ox.ac.uk/people/jan.obloj), Prof. [Christian Coester](https://www.cs.ox.ac.uk/people/christian.coester/), [Prof. Christian Rupprecht](https://chrirupp.github.io/), and [Luke Melas-Kyriazi](https://lukemelas.github.io/). His research interest lies in theory-inspired machine learning and learning-augmented classic algorithms.
+role: Xingjian Bai is a final-year undergraduate student at Oxford. He has been advised by Prof. [Jan Obloj](https://www.maths.ox.ac.uk/people/jan.obloj), Prof. [Christian Coester](https://www.cs.ox.ac.uk/people/christian.coester/), [Prof. Christian Rupprecht](https://chrirupp.github.io/), and [Luke Melas-Kyriazi](https://lukemelas.github.io/). His research interest lies in theory-inspired machine learning and [learning-augmented classic algorithms](https://algorithms-with-predictions.github.io/).
 
 # Organizations/Affiliations to show in About widget
 # organizations:
