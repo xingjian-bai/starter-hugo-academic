@@ -14,7 +14,7 @@ last_name: Bai
 superuser: true
 
 # Role/position/tagline
-# role: I aim to develop learning systems that combine the theoretical grounding of classic algorithms and mathematics with the unreasonable effectiveness of machine learning. 
+role: Xingjian Bai is a final-year undergraduate student at Oxford. He has been advised by Prof. [Jan Obloj](https://www.maths.ox.ac.uk/people/jan.obloj), Prof. [Christian Coester](https://www.cs.ox.ac.uk/people/christian.coester/), [Prof. Christian Rupprecht](https://chrirupp.github.io/), and [Luke Melas-Kyriazi](https://lukemelas.github.io/). His research interest lies in theory-inspired machine learning.
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -80,6 +80,6 @@ email: 'xingjian.bai@sjc.ox.ac.uk'
 highlight_name: true
 ---
 
-Xingjian is a student at Oxford.
+<!-- Xingjian is a student at Oxford. -->
 <!-- Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 {style="text-align: justify;"} -->
