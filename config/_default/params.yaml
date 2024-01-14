@@ -11,21 +11,7 @@ appearance:
   font: minimal
   font_size: L
 
-# SEO
 
-# marketing:
-#   seo:
-#     site_type: Person
-#     local_business_type: ''
-#     org_name: ''
-#     description: 'A highly-customizable Hugo academic resume theme powered by Wowchemy website builder.'
-#     twitter: 'wowchemy'
-#   analytics:
-#     google_analytics: ''
-#     baidu_tongji: ''
-#   verification:
-#     google: ''
-#     baidu: ''
 
 # Site header
 
@@ -112,3 +98,8 @@ extensions:
 security:
   # Allow frame for embedding speaker notes in slides
   allow_frame: true
+
+
+marketing:
+  analytics:
+    google_analytics: 'G-6HJHLLE75G'
