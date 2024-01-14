@@ -14,7 +14,7 @@ last_name: Bai
 superuser: true
 
 # Role/position/tagline
-role: I aim to develop learning systems that combine the theoretical grounding of classic algorithms and mathematics with the unreasonable effectiveness of machine learning. 
+# role: I aim to develop learning systems that combine the theoretical grounding of classic algorithms and mathematics with the unreasonable effectiveness of machine learning. 
 
 # Organizations/Affiliations to show in About widget
 # organizations:

@@ -41,7 +41,7 @@ sections:
       # Choose a user profile to display (a folder name within `content/authors/`)
       username: admin
       # Override your bio text from `authors/admin/_index.md`?
-      text: I aim to develop learning systems that combine the theoretical grounding of classic algorithms and mathematics with the unreasonable effectiveness of machine learning. 
+      text: I aim to develop learning systems inspired by theories, especially classic algorithms and probability theory. Such systems would be more reliable and effective in empirical settings.
     
   - block: collection
     content:
@@ -57,22 +57,25 @@ sections:
     design:
       columns: '2'
       view: citation
-  # - block: features
-  #   content:
-  #     title: Skills
-  #     items:
-  #       - name: R
-  #         description: 90%
-  #         icon: r-project
-  #         icon_pack: fab
-  #       - name: Statistics
-  #         description: 100%
-  #         icon: chart-line
-  #         icon_pack: fas
-  #       - name: Photography
-  #         description: 10%
-  #         icon: camera-retro
-  #         icon_pack: fas
+
+
+
+# - block: features
+#   content:
+#     title: Skills
+#     items:
+#       - name: R
+#         description: 90%
+#         icon: r-project
+#         icon_pack: fab
+#       - name: Statistics
+#         description: 100%
+#         icon: chart-line
+#         icon_pack: fas
+#       - name: Photography
+#         description: 10%
+#         icon: camera-retro
+#         icon_pack: fas
 #   - block: experience
 #     content:
 #       title: Experience
