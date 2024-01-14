@@ -56,17 +56,16 @@ sections:
 #     design:
 #       columns: '2'
 #       view: citation
-
   - block: markdown
     content:
         title: Publications
         text: |-
-        - **Xingjian Bai and Christian Coester.** *Sorting with Predictions.* NeurIPS 2023. [\[Link\]](https://arxiv.org/abs/2311.00749)
-        - **Xingjian Bai, Guangyi He, Yifan Jiang, and Jan Obloj.** *Wasserstein Distributional Robustness of Neural Networks.* NeurIPS 2023. [\[Link\]](https://arxiv.org/abs/2306.09844)
-        - **Xingjian Bai and Luke Melas-Kyriazi.** *Fixed Point Diffusion Models.* Under review at CVPR 2024.
-        - **Jacek Karwowski, Oliver Hayman, Xingjian Bai, Klaus Kiendlhofer, Charlie Griffin, and Joar Skalse.** *Goodhart's Law in Reinforcement Learning.* Under review at ICLR 2024. [\[Link\]](https://arxiv.org/abs/2310.09144)
-        - **Xingjian Bai, Ruining Ma, and Yulong Lou.** *Containing Invasive Species via Cellular Automaton and AI.* Journal of Undergraduate Mathematics and Its Applications (UMAP), 2021. American Mathematics Society Best Paper Award.
-        - **Hannah Rose Kirk, Yennie Jun, Paulius Rauba, Gal Wachtel, Ruining Li, Xingjian Bai, Noah Broestl, Martin Doff-Sotta, Aleksandar Shtedritski, Yuki M. Asano.** *Memes in the Wild: Assessing the Generalizability of the Hateful Memes Challenge Dataset.* Proceedings of the 5th Workshop on Online Abuse and Harms, 2021. [\[Link\]](https://arxiv.org/abs/2107.04313)
+          - **Xingjian Bai and Christian Coester.** *Sorting with Predictions.* NeurIPS 2023. [\[Link\]](https://arxiv.org/abs/2311.00749)
+          - **Xingjian Bai, Guangyi He, Yifan Jiang, and Jan Obloj.** *Wasserstein Distributional Robustness of Neural Networks.* NeurIPS 2023. [\[Link\]](https://arxiv.org/abs/2306.09844)
+          - **Xingjian Bai and Luke Melas-Kyriazi.** *Fixed Point Diffusion Models.* Under review at CVPR 2024.
+          - **Jacek Karwowski, Oliver Hayman, Xingjian Bai, Klaus Kiendlhofer, Charlie Griffin, and Joar Skalse.** *Goodhart's Law in Reinforcement Learning.* Under review at ICLR 2024. [\[Link\]](https://arxiv.org/abs/2310.09144)
+          - **Xingjian Bai, Ruining Ma, and Yulong Lou.** *Containing Invasive Species via Cellular Automaton and AI.* Journal of Undergraduate Mathematics and Its Applications (UMAP), 2021. American Mathematics Society Best Paper Award.
+          - **Hannah Rose Kirk, Yennie Jun, Paulius Rauba, Gal Wachtel, Ruining Li, Xingjian Bai, Noah Broestl, Martin Doff-Sotta, Aleksandar Shtedritski, Yuki M. Asano.** *Memes in the Wild: Assessing the Generalizability of the Hateful Memes Challenge Dataset.* Proceedings of the 5th Workshop on Online Abuse and Harms, 2021. [\[Link\]](https://arxiv.org/abs/2107.04313)
     design:
         columns: '1'
 
