@@ -75,11 +75,11 @@ sections:
       text: |-
         - **NeurIPS Scholar Award 2023**
         - **Regional Gold Medalist, advancing to World Final 2023** - The ICPC International Collegiate Programing Contest
-        - **Outstanding Winner & American Maths Society Best Paper (1 out of 10053) ** - 37th Mathematical Contest in Modeling
+        - **Outstanding Winner & American Maths Society Best Paper (1 out of 10053)** - 37th Mathematical Contest in Modeling
         - **"Hack the Hackers’ Hack" award, best out of 66 teams** - Oxford Hackathon 2020
         - **Full Score** - USA Computing Olympiad Open 2019
-        - **First place among the national team ** - Canadian Computing Olympiad 2018
-        - **Silver Medalist ** - Chinese National Olympiad in Informatics 2018
+        - **First place among the national team** - Canadian Computing Olympiad 2018
+        - **Silver Medalist** - Chinese National Olympiad in Informatics 2018
     design:
       columns: '1'
 
