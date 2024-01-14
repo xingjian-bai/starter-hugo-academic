@@ -10,12 +10,21 @@ main:
   - name: Publications
     url: '#featured'
     weight: 50
+  # - name: Posts
+  #   url: '#posts'
+  #   weight: 20
+  # - name: Projects
+  #   url: '#projects'
+  #   weight: 30
+  # - name: Talks
+  #   url: '#talks'
+  #   weight: 40
+  # - name: PublicZ
+  # - name: Contact
+  #   url: '#contact'
+  #   weight: 60
   - name: CV
-    url: https://drive.google.com/file/d/1f5hjwASc8x91VY7sjfKsi6sRbHoDFVSl/view?usp=sharing
-    weight: 70
-  - name: CV2
     url: uploads/XingjianBAI.pdf
     weight: 80
-
 
 # sectionPagesMenu: main

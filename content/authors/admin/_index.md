@@ -14,7 +14,7 @@ last_name: Bai
 superuser: true
 
 # Role/position/tagline
-role: A believer in human ingenuity and the power of science.
+role: I aim to develop learning systems that combine the theoretical grounding of classic algorithms and mathematics with the unreasonable effectiveness of machine learning. 
 
 # Organizations/Affiliations to show in About widget
 # organizations:
@@ -22,7 +22,7 @@ role: A believer in human ingenuity and the power of science.
 #     url: https://www.sjc.ox.ac.uk/discover/news/st-johns-students-wins-gold-in-northwestern-european-regional-programming-contest/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I aim to develop learning systems that combine the theoretical grounding of classic algorithms and mathematics with the seemingly unreasonable power of machine learning. 
+# bio: 
 # Interests to show in About widget
 interests:
   - Diffusion Model
