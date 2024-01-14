@@ -43,7 +43,7 @@ sections:
       # Override your bio text from `authors/admin/_index.md`?
     #   text: I aim to develop learning systems that combine the theoretical grounding of classic algorithms and mathematics with the unreasonable effectiveness of machine learning. 
     
-- block: collection
+  - block: collection
     content:
       title: Publications
       text: |-
