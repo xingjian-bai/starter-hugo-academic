@@ -63,7 +63,7 @@ sections:
         - **Xingjian Bai** and Christian Coester. *Sorting with Predictions.* **NeurIPS 2023**. [\[arXiv\]](https://arxiv.org/abs/2311.00749)
         - **Xingjian Bai**, Guangyi He, Yifan Jiang, and Jan Obloj. *Wasserstein Distributional Robustness of Neural Networks.* **NeurIPS 2023**. [\[arXiv\]](https://arxiv.org/abs/2306.09844)
         - **Xingjian Bai** and Luke Melas-Kyriazi. *Fixed Point Diffusion Models.* Under review at **CVPR 2024**.
-        - Jacek Karwowski, Oliver Hayman, **Xingjian Bai**, Klaus Kiendlhofer, Charlie Griffin, and Joar Skalse. *Goodhart's Law in Reinforcement Learning.* Under review at **ICLR 2024**. [\[arXiv\]](https://arxiv.org/abs/2310.09144) [Post](https://www.lesswrong.com/posts/Eu6CvP7c7ivcGM3PJ/goodhart-s-law-in-reinforcement-learning)
+        - Jacek Karwowski, Oliver Hayman, **Xingjian Bai**, Klaus Kiendlhofer, Charlie Griffin, and Joar Skalse. *Goodhart's Law in Reinforcement Learning.* Under review at **ICLR 2024**. [\[arXiv\]](https://arxiv.org/abs/2310.09144) [\[Post\]](https://www.lesswrong.com/posts/Eu6CvP7c7ivcGM3PJ/goodhart-s-law-in-reinforcement-learning)
         - **Xingjian Bai**, Ruining Ma, and Yulong Lou. *Containing Invasive Species via Cellular Automaton and AI.* Journal of Undergraduate Mathematics and Its Applications (UMAP), 2021. American Mathematics Society Best Paper Award.
         - Hannah Rose Kirk, Yennie Jun, Paulius Rauba, Gal Wachtel, Ruining Li, **Xingjian Bai**, Noah Broestl, Martin Doff-Sotta, Aleksandar Shtedritski, Yuki M. Asano. *Memes in the Wild: Assessing the Generalizability of the Hateful Memes Challenge Dataset.* Proceedings of the 5th Workshop on Online Abuse and Harms, 2021. [\[arXiv\]](https://arxiv.org/abs/2107.04313)
     design:
@@ -73,13 +73,13 @@ sections:
     content:
       title: Achievements
       text: |-
-        - **NeurIPS Scholar Award 2023**
-        - **Regional Gold Medalist, advancing to World Final 2023** - The ICPC International Collegiate Programing Contest
-        - **Outstanding Winner & American Maths Society Best Paper (1 out of 10053)** - 37th Mathematical Contest in Modeling
-        - **"Hack the Hackers’ Hack" award, best out of 66 teams** - Oxford Hackathon 2020
-        - **Full Score** - USA Computing Olympiad Open 2019
-        - **First place among the national team** - Canadian Computing Olympiad 2018
-        - **Silver Medalist** - Chinese National Olympiad in Informatics 2018
+        - **NeurIPS Scholar Award** 2023
+        - **European Regional Gold Medalist**, advancing to World Final 2023 - The ICPC International Collegiate Programing Contest
+        - **Outstanding Winner & American Mathematics Society Best Paper (the top out of 10053 entries)** - 37th Mathematical Contest in Modeling
+        - "Hack the Hackers’ Hack" award, best out of 66 teams - Oxford Hackathon 2020
+        - Full Score - USA Computing Olympiad Open 2019
+        - First place in national team selection - Canadian Computing Olympiad 2018
+        - Silver Medalist - Chinese National Olympiad in Informatics 2018
     design:
       columns: '1'
 
